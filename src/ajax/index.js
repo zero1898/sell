@@ -28,3 +28,17 @@ export default {
       });
   }
 };
+
+// import data from './data.json';
+
+// export default {
+//   getSeller: (cb) => {
+//     cb(data.seller);
+//   },
+//   getRatings: (cb) => {
+//     cb(data.ratings);
+//   },
+//   getGoods: (cb) => {
+//     cb(data.goods);
+//   }
+// };
